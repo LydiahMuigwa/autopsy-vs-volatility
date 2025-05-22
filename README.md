@@ -1,7 +1,7 @@
 # Memory Forensics: Autopsy vs Volatility (Visual Lab)
 
-This project presents a **visual comparison** of two powerful memory forensics tools:  
-**Autopsy** (GUI-based) vs **Volatility** (command-line based)
+This project compares two widely used forensic tools. Autopsy and Volatility for analyzing Windows memory dumps. The analysis demonstrates how each tool performs across key forensic dimensions, such as process extraction, command-line activity, network behavior, and user activity tracking. While Autopsy is known for its user-friendly GUI and disk analysis capabilities, Volatility excels in deep memory forensics via command-line plugins.</br>
+This comparison helps forensic analysts choose the right tool based on case complexity and required artifact depth.
 
 ---
 
